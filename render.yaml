@@ -12,3 +12,5 @@ services:
         sync: false
       - key: BOT_TOKEN
         sync: false
+      - key: PORT
+        value: "8080"
