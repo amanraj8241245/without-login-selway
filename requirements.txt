@@ -1,6 +1,0 @@
-pyrogram==2.0.106
-TgCrypto
-aiohttp
-
-flask
-gunicorn
